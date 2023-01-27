@@ -81,6 +81,7 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
+![output](xxx.png)
 
 # RESULT:
 
